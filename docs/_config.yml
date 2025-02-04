@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: Market Miner
+description: High-performance C++ market data processing system
+show_downloads: true
+google_analytics:
